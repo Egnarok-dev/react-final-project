@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-final-project/static/css/main.37613bbb.css",
-    "main.js": "/react-final-project/static/js/main.405ef5fb.js",
+    "main.js": "/react-final-project/static/js/main.766b2f34.js",
     "static/media/review_user_photo_2.jpg": "/react-final-project/static/media/review_user_photo_2.d89c3eedb5b8f28464b4.jpg",
     "static/media/backgroundImage.png": "/react-final-project/static/media/backgroundImage.80e6a3701e6f6f544d69.png",
     "static/media/main_banner_back.png": "/react-final-project/static/media/main_banner_back.573de7d3a7f1c35843e2.png",
@@ -83,10 +83,10 @@
     "static/media/youtube.svg": "/react-final-project/static/media/youtube.08b5a036f736088aba8d65cb2eb49caa.svg",
     "static/media/facebook.svg": "/react-final-project/static/media/facebook.e5a6d3fe63390c64333207693e0bb4a4.svg",
     "main.37613bbb.css.map": "/react-final-project/static/css/main.37613bbb.css.map",
-    "main.405ef5fb.js.map": "/react-final-project/static/js/main.405ef5fb.js.map"
+    "main.766b2f34.js.map": "/react-final-project/static/js/main.766b2f34.js.map"
   },
   "entrypoints": [
     "static/css/main.37613bbb.css",
-    "static/js/main.405ef5fb.js"
+    "static/js/main.766b2f34.js"
   ]
 }
